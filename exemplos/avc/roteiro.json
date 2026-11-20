@@ -1,0 +1,554 @@
+{
+ "titulo": "AVC",
+ "formato": "9:16",
+ "cenas": [
+  {
+   "imagem": "img/cena01.jpg",
+   "texto": "Você vai montar um cérebro.",
+   "movimento": "zoom_in"
+  },
+  {
+   "imagem": "img/cena01.jpg",
+   "texto": "E depois... vai dar um curto nele!",
+   "movimento": "parado",
+   "sticker": "Bzzt!",
+   "sticker_na_palavra": "curto",
+   "sfx": [
+    {
+     "som": "estalo",
+     "na_palavra": "curto"
+    }
+   ],
+   "sticker_y": 0.08
+  },
+  {
+   "imagem": "img/cena02.jpg",
+   "texto": "Primeiro, bilhões de células",
+   "movimento": "zoom_in",
+   "efeitos": [
+    {
+     "tipo": "brilho",
+     "x": 0.5,
+     "y": 0.42
+    }
+   ]
+  },
+  {
+   "imagem": "img/cena02.jpg",
+   "texto": "que conversam por eletricidade:",
+   "movimento": "pan_dir",
+   "efeitos": [
+    {
+     "tipo": "brilho",
+     "x": 0.4,
+     "y": 0.5
+    }
+   ],
+   "sfx": [
+    {
+     "som": "tique",
+     "na_palavra": "eletricidade"
+    }
+   ]
+  },
+  {
+   "imagem": "img/cena02.jpg",
+   "texto": "os neurônios!",
+   "movimento": "parado",
+   "rotulo": "Neurônios",
+   "rotulo_na_palavra": "neuronios"
+  },
+  {
+   "imagem": "img/cena03.jpg",
+   "texto": "Cada pedaço manda numa coisa:",
+   "movimento": "zoom_in"
+  },
+  {
+   "imagem": "img/cena03.jpg",
+   "texto": "um move o braço, outro faz você falar,",
+   "movimento": "pan_esq"
+  },
+  {
+   "imagem": "img/cena03.jpg",
+   "texto": "outro faz você sorrir.",
+   "movimento": "zoom_in"
+  },
+  {
+   "imagem": "img/cena04.jpg",
+   "texto": "E o lado esquerdo do cérebro",
+   "movimento": "parado"
+  },
+  {
+   "imagem": "img/cena04.jpg",
+   "texto": "manda no lado direito do corpo!",
+   "movimento": "zoom_in",
+   "rotulo": "É cruzado",
+   "rotulo_cor": "azul",
+   "rotulo_na_palavra": "direito"
+  },
+  {
+   "imagem": "img/cena05.jpg",
+   "texto": "Mas o cérebro é um esfomeado:",
+   "movimento": "zoom_in"
+  },
+  {
+   "imagem": "img/cena05.jpg",
+   "texto": "pesa só *dois* por cento do seu peso",
+   "movimento": "pan_dir"
+  },
+  {
+   "imagem": "img/cena05.jpg",
+   "texto": "e gasta uns *vinte* por cento do oxigênio!",
+   "movimento": "zoom_in",
+   "sticker": "Fome!",
+   "sticker_na_palavra": "vinte",
+   "sfx": [
+    {
+     "som": "boing",
+     "na_palavra": "vinte"
+    }
+   ],
+   "sticker_y": 0.08
+  },
+  {
+   "imagem": "img/cena05.jpg",
+   "texto": "E não guarda estoque nenhum.",
+   "movimento": "parado"
+  },
+  {
+   "imagem": "img/cena06.jpg",
+   "texto": "Então você liga canos de sangue",
+   "movimento": "zoom_in",
+   "efeitos": [
+    {
+     "tipo": "pulsar",
+     "bpm": 75,
+     "forca": 0.015
+    }
+   ]
+  },
+  {
+   "imagem": "img/cena06.jpg",
+   "texto": "chegando o tempo todo:",
+   "movimento": "parado",
+   "efeitos": [
+    {
+     "tipo": "pulsar",
+     "bpm": 75,
+     "forca": 0.015
+    }
+   ]
+  },
+  {
+   "imagem": "img/cena06.jpg",
+   "texto": "as artérias cerebrais!",
+   "movimento": "zoom_in",
+   "rotulo": "Artérias cerebrais",
+   "rotulo_na_palavra": "arterias"
+  },
+  {
+   "imagem": "img/cena02.jpg",
+   "texto": "Pronto, cérebro funcionando!",
+   "movimento": "zoom_out",
+   "sfx": [
+    {
+     "som": "ding",
+     "na_palavra": "funcionando",
+     "vol": 0.6
+    }
+   ]
+  },
+  {
+   "imagem": "img/cena07.jpg",
+   "texto": "Agora... vamos dar o curto.",
+   "movimento": "zoom_in",
+   "sfx": [
+    {
+     "som": "estalo",
+     "na_palavra": "curto"
+    }
+   ]
+  },
+  {
+   "imagem": "img/cena08.jpg",
+   "texto": "Jeito número *um*: o cano entope.",
+   "movimento": "pan_esq"
+  },
+  {
+   "imagem": "img/cena08.jpg",
+   "texto": "Um coágulo vem do coração,",
+   "movimento": "parado"
+  },
+  {
+   "imagem": "img/cena09.jpg",
+   "texto": "ou nasce numa placa de gordura no pescoço,",
+   "movimento": "zoom_in"
+  },
+  {
+   "imagem": "img/cena10.jpg",
+   "texto": "sobe e tampa a artéria do cérebro.",
+   "movimento": "parado",
+   "sticker": "Entupiu!",
+   "sticker_na_palavra": "tampa",
+   "sfx": [
+    {
+     "som": "impacto",
+     "na_palavra": "tampa"
+    }
+   ]
+  },
+  {
+   "imagem": "img/cena10.jpg",
+   "texto": "Esse é o AVC isquêmico,",
+   "movimento": "zoom_in",
+   "rotulo": "AVC isquêmico",
+   "rotulo_cor": "vermelho",
+   "rotulo_na_palavra": "isquemico"
+  },
+  {
+   "imagem": "img/cena10.jpg",
+   "texto": "quase *nove* em cada *dez* casos!",
+   "movimento": "parado"
+  },
+  {
+   "imagem": "img/cena11.jpg",
+   "texto": "Jeito número *dois*: o cano estoura.",
+   "movimento": "zoom_in"
+  },
+  {
+   "imagem": "img/cena11.jpg",
+   "texto": "Anos de pressão alta enfraquecem a parede,",
+   "movimento": "parado",
+   "efeitos": [
+    {
+     "tipo": "pulsar",
+     "bpm": 100,
+     "forca": 0.03
+    }
+   ]
+  },
+  {
+   "imagem": "img/cena12.jpg",
+   "texto": "até que ela rompe",
+   "movimento": "parado",
+   "sticker": "Pou!",
+   "sticker_na_palavra": "rompe",
+   "sfx": [
+    {
+     "som": "estalo",
+     "na_palavra": "rompe"
+    }
+   ],
+   "efeitos": [
+    {
+     "tipo": "particulas",
+     "x": 0.44,
+     "y": 0.27,
+     "na_palavra": "rompe",
+     "n": 24,
+     "cor": [
+      200,
+      30,
+      40
+     ]
+    }
+   ]
+  },
+  {
+   "imagem": "img/cena12.jpg",
+   "texto": "e o sangue vaza dentro do cérebro.",
+   "movimento": "parado",
+   "efeitos": [
+    {
+     "tipo": "escurecer",
+     "x": 0.45,
+     "y": 0.4,
+     "r": 0.25,
+     "dur": 1.5,
+     "cor": [
+      150,
+      10,
+      20
+     ],
+     "alpha": 170
+    }
+   ]
+  },
+  {
+   "imagem": "img/cena12.jpg",
+   "texto": "Esse é o AVC hemorrágico!",
+   "movimento": "parado",
+   "rotulo": "AVC hemorrágico",
+   "rotulo_cor": "vermelho",
+   "rotulo_na_palavra": "hemorragico"
+  },
+  {
+   "imagem": "img/cena13.jpg",
+   "texto": "Nos dois casos, um pedaço do cérebro sofre,",
+   "movimento": "parado",
+   "efeitos": [
+    {
+     "tipo": "escurecer",
+     "x": 0.5,
+     "y": 0.63,
+     "r": 0.17,
+     "dur": 1.5,
+     "cor": [
+      45,
+      15,
+      55
+     ],
+     "alpha": 200
+    }
+   ]
+  },
+  {
+   "imagem": "img/cena14.jpg",
+   "texto": "e os neurônios começam a morrer.",
+   "movimento": "pan_dir"
+  },
+  {
+   "imagem": "img/cena14.jpg",
+   "texto": "Quase *dois* milhões por minuto!",
+   "movimento": "zoom_in",
+   "sticker": "2 milhões!",
+   "sticker_na_palavra": "dois",
+   "sfx": [
+    {
+     "som": "impacto",
+     "na_palavra": "dois"
+    }
+   ]
+  },
+  {
+   "imagem": "img/cena15.jpg",
+   "texto": "Por isso: tempo é cérebro!",
+   "movimento": "zoom_in",
+   "rotulo": "Tempo é cérebro",
+   "rotulo_cor": "azul",
+   "rotulo_na_palavra": "tempo",
+   "sfx": [
+    {
+     "som": "tique",
+     "na_palavra": "tempo"
+    }
+   ]
+  },
+  {
+   "imagem": "img/cena13.jpg",
+   "texto": "E como perceber? Tudo começa de repente.",
+   "movimento": "parado",
+   "efeitos": [
+    {
+     "tipo": "alarme",
+     "alpha": 45
+    }
+   ]
+  },
+  {
+   "imagem": "img/cena16.jpg",
+   "texto": "Se pega a área do rosto, o sorriso entorta.",
+   "movimento": "zoom_in"
+  },
+  {
+   "imagem": "img/cena17.jpg",
+   "texto": "Se pega a do braço, ele perde a força.",
+   "movimento": "parado",
+   "sticker": "Caiu!",
+   "sticker_na_palavra": "perde",
+   "sticker_y": 0.08
+  },
+  {
+   "imagem": "img/cena18.jpg",
+   "texto": "Se pega a da fala, ela enrola.",
+   "movimento": "zoom_in"
+  },
+  {
+   "imagem": "img/cena19.jpg",
+   "texto": "Pode vir tontura, a vista falhar,",
+   "movimento": "pan_dir"
+  },
+  {
+   "imagem": "img/cena19.jpg",
+   "texto": "ou uma dor de cabeça fortíssima.",
+   "movimento": "zoom_in",
+   "sticker": "Ai!",
+   "sticker_na_palavra": "dor",
+   "sfx": [
+    {
+     "som": "impacto",
+     "na_palavra": "dor"
+    }
+   ],
+   "sticker_y": 0.08
+  },
+  {
+   "imagem": "img/cena20.jpg",
+   "texto": "Pra não esquecer, faça o teste SAMU!",
+   "movimento": "zoom_in",
+   "rotulo": "Teste SAMU",
+   "rotulo_na_palavra": "samu"
+  },
+  {
+   "imagem": "img/cena16.jpg",
+   "texto": "S de sorria: peça pra pessoa sorrir.",
+   "movimento": "parado",
+   "rotulo": "Sorria",
+   "rotulo_cor": "azul",
+   "rotulo_na_palavra": "sorria"
+  },
+  {
+   "imagem": "img/cena17.jpg",
+   "texto": "A de abraço: levantar os dois braços.",
+   "movimento": "parado",
+   "rotulo": "Abraço",
+   "rotulo_cor": "azul",
+   "rotulo_na_palavra": "abraco"
+  },
+  {
+   "imagem": "img/cena18.jpg",
+   "texto": "M de música: cantar um pedacinho.",
+   "movimento": "parado",
+   "rotulo": "Música",
+   "rotulo_cor": "azul",
+   "rotulo_na_palavra": "musica"
+  },
+  {
+   "imagem": "img/cena21.jpg",
+   "texto": "U de urgente: algo deu errado?",
+   "movimento": "zoom_in",
+   "rotulo": "Urgente",
+   "rotulo_cor": "vermelho",
+   "rotulo_na_palavra": "urgente"
+  },
+  {
+   "imagem": "img/cena21.jpg",
+   "texto": "Ligue *192* na hora!",
+   "movimento": "parado",
+   "sticker": "192!",
+   "sticker_na_palavra": "192",
+   "sfx": [
+    {
+     "som": "ding",
+     "na_palavra": "192"
+    }
+   ],
+   "sticker_y": 0.08
+  },
+  {
+   "imagem": "img/cena22.jpg",
+   "texto": "E anote a hora que tudo começou.",
+   "movimento": "pan_esq"
+  },
+  {
+   "imagem": "img/cena22.jpg",
+   "texto": "Mesmo se os sinais sumirem, é um aviso sério!",
+   "movimento": "zoom_in",
+   "rotulo": "Pode voltar",
+   "rotulo_cor": "azul",
+   "rotulo_na_palavra": "aviso"
+  },
+  {
+   "imagem": "img/cena23.jpg",
+   "texto": "No hospital, a tomografia mostra",
+   "movimento": "zoom_in",
+   "rotulo": "Tomografia",
+   "rotulo_na_palavra": "tomografia"
+  },
+  {
+   "imagem": "img/cena23.jpg",
+   "texto": "se o cano entupiu ou estourou,",
+   "movimento": "pan_dir"
+  },
+  {
+   "imagem": "img/cena23.jpg",
+   "texto": "porque o tratamento é o oposto!",
+   "movimento": "zoom_in"
+  },
+  {
+   "imagem": "img/cena24.jpg",
+   "texto": "Entupiu? Um remédio dissolve o coágulo,",
+   "movimento": "zoom_in",
+   "rotulo": "Trombolítico",
+   "rotulo_cor": "azul",
+   "rotulo_na_palavra": "remedio"
+  },
+  {
+   "imagem": "img/cena24.jpg",
+   "texto": "de preferência em até *quatro* horas e meia.",
+   "movimento": "parado"
+  },
+  {
+   "imagem": "img/cena25.jpg",
+   "texto": "Ou um cateter vai lá e puxa o coágulo pra fora!",
+   "movimento": "zoom_in",
+   "rotulo": "Trombectomia",
+   "rotulo_na_palavra": "cateter",
+   "sfx": [
+    {
+     "som": "pop",
+     "na_palavra": "puxa"
+    }
+   ]
+  },
+  {
+   "imagem": "img/cena26.jpg",
+   "texto": "Estourou? O foco é segurar a pressão e o sangramento.",
+   "movimento": "zoom_in"
+  },
+  {
+   "imagem": "img/cena27.jpg",
+   "texto": "E pra evitar? Controle a pressão, a maior vilã,",
+   "movimento": "pan_esq",
+   "sticker": "Vilã!",
+   "sticker_na_palavra": "vila"
+  },
+  {
+   "imagem": "img/cena27.jpg",
+   "texto": "o açúcar e o colesterol,",
+   "movimento": "pan_dir"
+  },
+  {
+   "imagem": "img/cena28.jpg",
+   "texto": "largue o cigarro e mexa esse corpo!",
+   "movimento": "zoom_in",
+   "sticker": "Bora!",
+   "sticker_na_palavra": "mexa",
+   "sfx": [
+    {
+     "som": "boing",
+     "na_palavra": "mexa"
+    }
+   ],
+   "sticker_y": 0.08
+  },
+  {
+   "imagem": "img/cena29.jpg",
+   "texto": "Parabéns, agora você entende o AVC!",
+   "movimento": "zoom_in",
+   "sticker": "Parabéns!",
+   "sticker_cor": "amarelo",
+   "sticker_na_palavra": "parabens",
+   "sticker_y": 0.08
+  },
+  {
+   "imagem": "img/cena30.jpg",
+   "texto": "Qual órgão eu monto no próximo?",
+   "movimento": "zoom_in"
+  },
+  {
+   "imagem": "img/cena30.jpg",
+   "texto": "Comenta aí!",
+   "movimento": "parado",
+   "sticker": "Comenta!",
+   "sticker_na_palavra": "comenta",
+   "sfx": [
+    {
+     "som": "ding",
+     "na_palavra": "comenta"
+    }
+   ],
+   "sticker_y": 0.08
+  }
+ ]
+}

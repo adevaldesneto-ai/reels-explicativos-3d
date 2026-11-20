@@ -1,0 +1,33 @@
+{
+ "style": "Vertical 9:16 portrait image. Low-poly 3D cartoon render, like a cute mobile game, faceted geometric shapes, soft warm studio lighting, pastel colors, simple background, cinematic close framing, main subject in the upper and middle area, the whole frame filled with the same scene down to the bottom edge, no empty band at the bottom. No text, no letters, no numbers, no watermark.",
+ "referencia": "../../assets/mascote.png",
+ "gatilho": "Ze",
+ "prompts": {
+  "01": "Ze, standing at a cozy workbench, excitedly holding a cute low-poly cartoon human brain in both hands, big smile, workshop background",
+  "02": "a glowing network of cute low-poly neuron cells with long branches connected to each other, little electric sparks traveling between them, dark blue magical background",
+  "03": "a cute low-poly 3D cartoon human brain, recognizable real brain shape with folds, two hemispheres and cerebellum, soft pink faceted, side view, its regions softly glowing in different pastel colors (front, top, side, back), clean light background",
+  "04": "a cute low-poly 3D cartoon human brain, recognizable real brain shape with folds, two hemispheres and cerebellum, soft pink faceted, seen from the front, the left half glowing blue and the right half glowing orange, clean light background",
+  "05": "a cute low-poly cartoon brain character with big eyes, very hungry, holding a fork and knife, drooling, looking at a big glowing bubble of oxygen, funny, pastel kitchen background",
+  "06": "a cute low-poly 3D cartoon human brain, recognizable real brain shape with folds, two hemispheres and cerebellum, soft pink faceted, covered by a network of bright red arteries branching over its surface, two big red arteries coming up from the neck below it, clean light background",
+  "07": "Ze, with a mischievous grin holding a sparking electric cable plug next to a cute low-poly cartoon brain on a workbench, little electric sparks, playful",
+  "08": "a stylized low-poly cartoon human torso silhouette with a heart and a red artery going up the neck to the head, a small dark red blood clot traveling up inside the artery, light background",
+  "09": "close-up cut-open view of a pink neck artery (carotid) with a big yellow fatty plaque inside and a small dark red clot breaking off from it, low-poly 3D cartoon",
+  "10": "inside the brain, a pink brain artery blocked by a dark red blood clot, the brain tissue beyond it turning pale gray, low-poly 3D cartoon",
+  "11": "a thin pink brain artery bulging and stretched like an overinflated balloon, with a small cartoon pressure gauge needle in the red zone next to it, low-poly 3D cartoon, tense mood",
+  "12": "a brain artery bursting, red blood splashing out into the soft pink brain tissue around it, low-poly 3D cartoon, dramatic",
+  "13": "a cute low-poly 3D cartoon human brain, recognizable real brain shape with folds, two hemispheres and cerebellum, soft pink faceted, one area on its side darkened purple-gray, the rest pink, clean light background",
+  "14": "cute low-poly cartoon neuron characters with big eyes, sad and fainting, some lying down, their branches drooping, dim lighting",
+  "15": "a cute low-poly 3D cartoon human brain, recognizable real brain shape with folds, two hemispheres and cerebellum, soft pink faceted next to a big ticking stopwatch, urgent mood, warm light",
+  "16": "Ze, trying to smile but the left corner of his mouth droops down, one side of the face not moving, confused expression, living room",
+  "17": "Ze, trying to raise both arms forward, one arm drifts down weak and falls, worried face, living room",
+  "18": "Ze, trying to talk with a confused face, a speech bubble with tangled scribbles and spirals (no letters), living room",
+  "19": "Ze, dizzy holding his head with both hands, swirling stars around his head, blurry eyes, strong headache, living room",
+  "20": "Ze, cheerfully presenting four big round floating badges with icons: a smiling face, two arms hugging, a music note, a telephone handset, no letters, bright background",
+  "23": "a hospital room with a cute low-poly CT scanner ring and a patient lying on the table sliding into it, a friendly doctor watching a screen with a brain scan image",
+  "24": "inside a brain artery, a dark red blood clot breaking apart into small pieces surrounded by sparkling magical medicine particles, blood starting to flow again, low-poly 3D cartoon",
+  "25": "inside a brain artery, a thin catheter with a small silver mesh basket at its tip grabbing a dark red blood clot and pulling it out, low-poly 3D cartoon",
+  "26": "a hospital room, a cute low-poly cartoon doctor carefully checking a blood pressure monitor next to a patient in bed, calm focused mood",
+  "29": "Ze, proudly holding up a golden trophy shaped like a brain, confetti falling, big smile",
+  "30": "Ze, pointing at the viewer with a curious smile, small cute low-poly organs floating around him: lungs, kidney, liver, stomach, eye, question marks made of light"
+ }
+}

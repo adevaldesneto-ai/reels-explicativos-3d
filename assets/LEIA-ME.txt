@@ -1,0 +1,2 @@
+Coloque aqui a imagem do seu mascote aprovado como mascote.png.
+Os prompts que comecam com o nome do mascote usam essa imagem como referencia.

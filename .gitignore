@@ -1,0 +1,13 @@
+# arquivos gerados (pesados) e privados
+**/AUDIOS/
+**/img/
+**/narracao.wav
+**/narracao.mp3
+**/palavras.json
+**/video.mp4
+**/_*.png
+**/_mix.wav
+**/_sfx_teste/
+*.b64
+.env
+__pycache__/

@@ -1,0 +1,690 @@
+{
+ "titulo": "Infarto agudo do miocárdio (v2)",
+ "formato": "9:16",
+ "cenas": [
+  {
+   "imagem": "img/cena01.jpg",
+   "texto": "Você vai montar um coração.",
+   "movimento": "zoom_in"
+  },
+  {
+   "imagem": "img/cena01.jpg",
+   "texto": "E depois... vai quebrar ele!",
+   "movimento": "parado",
+   "sticker": "Ops!",
+   "sticker_na_palavra": "quebrar",
+   "sfx": [
+    {
+     "som": "boing",
+     "na_palavra": "quebrar"
+    }
+   ],
+   "sticker_y": 0.08
+  },
+  {
+   "imagem": "img/cena02.jpg",
+   "texto": "Primeiro, uma bomba de músculo:",
+   "movimento": "zoom_in",
+   "efeitos": [
+    {
+     "tipo": "pulsar",
+     "bpm": 75,
+     "forca": 0.035
+    }
+   ]
+  },
+  {
+   "imagem": "img/cena02.jpg",
+   "texto": "o miocárdio!",
+   "movimento": "parado",
+   "foco": [
+    0.5,
+    0.45
+   ],
+   "efeitos": [
+    {
+     "tipo": "pulsar",
+     "bpm": 75,
+     "forca": 0.035
+    }
+   ],
+   "rotulo": "Miocárdio",
+   "rotulo_na_palavra": "miocardio"
+  },
+  {
+   "imagem": "img/cena03.jpg",
+   "texto": "Ele aperta e empurra sangue",
+   "movimento": "parado",
+   "efeitos": [
+    {
+     "tipo": "pulsar",
+     "bpm": 75,
+     "forca": 0.035
+    }
+   ]
+  },
+  {
+   "imagem": "img/cena03.jpg",
+   "texto": "pro corpo inteiro.",
+   "movimento": "zoom_out",
+   "efeitos": [
+    {
+     "tipo": "pulsar",
+     "bpm": 75,
+     "forca": 0.035
+    }
+   ]
+  },
+  {
+   "imagem": "img/cena02.jpg",
+   "texto": "Tum-tum, umas *cem* mil vezes por dia!",
+   "movimento": "parado",
+   "efeitos": [
+    {
+     "tipo": "pulsar",
+     "bpm": 95,
+     "forca": 0.05
+    }
+   ],
+   "sticker": "Tum-tum!",
+   "sticker_na_palavra": "tum",
+   "sfx": [
+    {
+     "som": "impacto",
+     "na_palavra": "tum",
+     "vol": 0.4,
+     "tremer": false
+    }
+   ]
+  },
+  {
+   "imagem": "img/cena04.jpg",
+   "texto": "Mas ele trabalha sem parar...",
+   "movimento": "pan_dir"
+  },
+  {
+   "imagem": "img/cena04.jpg",
+   "texto": "e também precisa comer!",
+   "movimento": "zoom_in",
+   "sticker": "Fome!",
+   "sticker_na_palavra": "comer",
+   "sfx": [
+    {
+     "som": "boing",
+     "na_palavra": "comer"
+    }
+   ],
+   "sticker_y": 0.08
+  },
+  {
+   "imagem": "img/cena05.jpg",
+   "texto": "Então você coloca mangueirinhas por fora,",
+   "movimento": "zoom_in",
+   "efeitos": [
+    {
+     "tipo": "pulsar",
+     "bpm": 75,
+     "forca": 0.02
+    }
+   ]
+  },
+  {
+   "imagem": "img/cena05.jpg",
+   "texto": "levando sangue cheio de oxigênio.",
+   "movimento": "parado",
+   "efeitos": [
+    {
+     "tipo": "pulsar",
+     "bpm": 75,
+     "forca": 0.02
+    }
+   ]
+  },
+  {
+   "imagem": "img/cena05.jpg",
+   "texto": "Essas são as artérias coronárias!",
+   "movimento": "zoom_in",
+   "foco": [
+    0.5,
+    0.42
+   ],
+   "rotulo": "Artérias coronárias",
+   "rotulo_na_palavra": "arterias"
+  },
+  {
+   "imagem": "img/cena06.jpg",
+   "texto": "Pronto, coração funcionando!",
+   "movimento": "parado",
+   "sfx": [
+    {
+     "som": "ding",
+     "na_palavra": "funcionando",
+     "vol": 0.6
+    }
+   ]
+  },
+  {
+   "imagem": "img/cena07.jpg",
+   "texto": "Agora... vamos quebrar.",
+   "movimento": "zoom_in",
+   "sfx": [
+    {
+     "som": "impacto",
+     "na_palavra": "quebrar"
+    }
+   ]
+  },
+  {
+   "imagem": "img/cena08.jpg",
+   "texto": "Anos de cigarro, pressão alta,",
+   "movimento": "pan_esq"
+  },
+  {
+   "imagem": "img/cena08.jpg",
+   "texto": "açúcar e gordura no sangue",
+   "movimento": "pan_dir"
+  },
+  {
+   "imagem": "img/cena09.jpg",
+   "texto": "arranham a mangueira por dentro.",
+   "movimento": "zoom_in",
+   "sfx": [
+    {
+     "som": "tique",
+     "na_palavra": "arranham"
+    }
+   ]
+  },
+  {
+   "imagem": "img/cena09.jpg",
+   "texto": "A gordura, o colesterol LDL,",
+   "movimento": "parado",
+   "rotulo": "Colesterol LDL",
+   "rotulo_na_palavra": "colesterol"
+  },
+  {
+   "imagem": "img/cena09.jpg",
+   "texto": "entra nesses arranhões.",
+   "movimento": "zoom_in",
+   "foco": [
+    0.5,
+    0.45
+   ]
+  },
+  {
+   "imagem": "img/cena10.jpg",
+   "texto": "O corpo manda células de defesa pra limpar.",
+   "movimento": "pan_dir"
+  },
+  {
+   "imagem": "img/cena10.jpg",
+   "texto": "Elas comem gordura demais e incham!",
+   "movimento": "zoom_in",
+   "sticker": "Nhac!",
+   "sticker_na_palavra": "comem"
+  },
+  {
+   "imagem": "img/cena11.jpg",
+   "texto": "Vira uma bolha de gordura",
+   "movimento": "zoom_in"
+  },
+  {
+   "imagem": "img/cena11.jpg",
+   "texto": "com uma casquinha por cima.",
+   "movimento": "parado"
+  },
+  {
+   "imagem": "img/cena11.jpg",
+   "texto": "Essa é a placa de aterosclerose!",
+   "movimento": "zoom_out",
+   "rotulo": "Placa de aterosclerose",
+   "rotulo_na_palavra": "placa"
+  },
+  {
+   "imagem": "img/cena12.jpg",
+   "texto": "A placa fica quieta por anos...",
+   "movimento": "zoom_in"
+  },
+  {
+   "imagem": "img/cena11.jpg",
+   "texto": "até que um dia, a casquinha racha!",
+   "movimento": "parado",
+   "efeitos": [
+    {
+     "tipo": "rachadura",
+     "x": 0.41,
+     "y": 0.44,
+     "na_palavra": "racha"
+    },
+    {
+     "tipo": "particulas",
+     "x": 0.41,
+     "y": 0.44,
+     "na_palavra": "racha",
+     "n": 22
+    }
+   ],
+   "sticker": "Crec!",
+   "sticker_na_palavra": "racha",
+   "sfx": [
+    {
+     "som": "estalo",
+     "na_palavra": "racha"
+    }
+   ],
+   "foco": [
+    0.4,
+    0.45
+   ]
+  },
+  {
+   "imagem": "img/cena13.jpg",
+   "texto": "O corpo acha que é um machucado",
+   "movimento": "zoom_in"
+  },
+  {
+   "imagem": "img/cena13.jpg",
+   "texto": "e chama as plaquetas, os tampões do sangue.",
+   "movimento": "pan_esq",
+   "rotulo": "Plaquetas",
+   "rotulo_na_palavra": "plaquetas"
+  },
+  {
+   "imagem": "img/cena13.jpg",
+   "texto": "Elas grudam umas nas outras,",
+   "movimento": "zoom_in",
+   "foco": [
+    0.5,
+    0.45
+   ]
+  },
+  {
+   "imagem": "img/cena14.jpg",
+   "texto": "e uma rede de fibrina amarra tudo.",
+   "movimento": "zoom_in",
+   "rotulo": "Rede de fibrina",
+   "rotulo_cor": "azul",
+   "rotulo_na_palavra": "fibrina"
+  },
+  {
+   "imagem": "img/cena14.jpg",
+   "texto": "Isso é o coágulo, o trombo!",
+   "movimento": "parado",
+   "rotulo": "Trombo",
+   "rotulo_na_palavra": "coagulo"
+  },
+  {
+   "imagem": "img/cena28.jpg",
+   "texto": "E ele entope a mangueira de vez!",
+   "movimento": "parado",
+   "sticker": "Entupiu!",
+   "sticker_na_palavra": "entope",
+   "sfx": [
+    {
+     "som": "impacto",
+     "na_palavra": "entope"
+    }
+   ],
+   "efeitos": [
+    {
+     "tipo": "fluxo",
+     "x0": 0.5,
+     "y0": 1.05,
+     "x1": 0.5,
+     "y1": 0.35,
+     "largura": 0.25,
+     "n": 16,
+     "vel": 0.9,
+     "parar_na_palavra": "entope",
+     "limite": 0.55
+    }
+   ]
+  },
+  {
+   "imagem": "img/cena15.jpg",
+   "texto": "Sem sangue, o músculo fica sem oxigênio.",
+   "movimento": "parado",
+   "efeitos": [
+    {
+     "tipo": "pulsar",
+     "bpm": 110,
+     "forca": 0.03
+    }
+   ],
+   "foco": [
+    0.5,
+    0.62
+   ]
+  },
+  {
+   "imagem": "img/cena15.jpg",
+   "texto": "Em uns *vinte*, *trinta* minutos,",
+   "movimento": "parado",
+   "efeitos": [
+    {
+     "tipo": "pulsar",
+     "bpm": 110,
+     "forca": 0.03
+    }
+   ],
+   "foco": [
+    0.5,
+    0.62
+   ]
+  },
+  {
+   "imagem": "img/cena15.jpg",
+   "texto": "as células começam a morrer,",
+   "movimento": "parado",
+   "efeitos": [
+    {
+     "tipo": "escurecer",
+     "x": 0.6,
+     "y": 0.62,
+     "r": 0.2,
+     "na_palavra": "morrer",
+     "dur": 1.2,
+     "cor": [
+      45,
+      15,
+      55
+     ],
+     "alpha": 235
+    }
+   ],
+   "foco": [
+    0.5,
+    0.62
+   ]
+  },
+  {
+   "imagem": "img/cena15.jpg",
+   "texto": "de dentro pra fora, minuto a minuto.",
+   "movimento": "parado",
+   "efeitos": [
+    {
+     "tipo": "escurecer",
+     "x": 0.6,
+     "y": 0.62,
+     "r": 0.28,
+     "dur": 2.0,
+     "cor": [
+      45,
+      15,
+      55
+     ],
+     "alpha": 235
+    }
+   ],
+   "foco": [
+    0.5,
+    0.62
+   ]
+  },
+  {
+   "imagem": "img/cena15.jpg",
+   "texto": "Isso é o infarto agudo do miocárdio!",
+   "movimento": "parado",
+   "efeitos": [
+    {
+     "tipo": "alarme",
+     "alpha": 60
+    },
+    {
+     "tipo": "escurecer",
+     "x": 0.6,
+     "y": 0.62,
+     "r": 0.3,
+     "dur": 0.1,
+     "cor": [
+      45,
+      15,
+      55
+     ],
+     "alpha": 235
+    }
+   ],
+   "rotulo": "Infarto agudo do miocárdio",
+   "rotulo_cor": "vermelho",
+   "rotulo_na_palavra": "infarto",
+   "foco": [
+    0.5,
+    0.62
+   ]
+  },
+  {
+   "imagem": "img/cena16.jpg",
+   "texto": "Por isso dói!",
+   "movimento": "zoom_in",
+   "sticker": "Ai!",
+   "sticker_na_palavra": "doi",
+   "sfx": [
+    {
+     "som": "impacto",
+     "na_palavra": "doi"
+    }
+   ],
+   "sticker_y": 0.08
+  },
+  {
+   "imagem": "img/cena16.jpg",
+   "texto": "Um aperto forte no peito,",
+   "movimento": "parado",
+   "efeitos": [
+    {
+     "tipo": "brilho",
+     "x": 0.5,
+     "y": 0.42
+    }
+   ]
+  },
+  {
+   "imagem": "img/cena16.jpg",
+   "texto": "por mais de *vinte* minutos,",
+   "movimento": "zoom_in",
+   "efeitos": [
+    {
+     "tipo": "brilho",
+     "x": 0.5,
+     "y": 0.42
+    }
+   ]
+  },
+  {
+   "imagem": "img/cena17.jpg",
+   "texto": "que pode ir pro braço esquerdo,",
+   "movimento": "parado",
+   "efeitos": [
+    {
+     "tipo": "seta",
+     "x": 0.56,
+     "y": 0.63,
+     "direcao": "esq",
+     "tamanho": 0.14,
+     "na_palavra": "braco"
+    }
+   ]
+  },
+  {
+   "imagem": "img/cena17.jpg",
+   "texto": "pescoço, mandíbula ou costas.",
+   "movimento": "zoom_in",
+   "rotulo": "Dor referida",
+   "rotulo_cor": "azul",
+   "rotulo_na_palavra": "pescoco"
+  },
+  {
+   "imagem": "img/cena18.jpg",
+   "texto": "Vem falta de ar, suor frio e enjoo.",
+   "movimento": "zoom_in"
+  },
+  {
+   "imagem": "img/cena19.jpg",
+   "texto": "Em mulheres, idosos e diabéticos,",
+   "movimento": "pan_dir"
+  },
+  {
+   "imagem": "img/cena19.jpg",
+   "texto": "pode ser só cansaço ou mal-estar.",
+   "movimento": "zoom_in",
+   "rotulo": "Pode ser discreto",
+   "rotulo_cor": "azul",
+   "rotulo_na_palavra": "cansaco"
+  },
+  {
+   "imagem": "img/cena02.jpg",
+   "texto": "E o coração machucado pode perder o ritmo",
+   "movimento": "parado",
+   "efeitos": [
+    {
+     "tipo": "pulsar",
+     "bpm": 160,
+     "forca": 0.05
+    },
+    {
+     "tipo": "alarme",
+     "alpha": 50
+    }
+   ]
+  },
+  {
+   "imagem": "img/cena02.jpg",
+   "texto": "e até parar!",
+   "movimento": "parado",
+   "sticker": "Parou!",
+   "sticker_na_palavra": "parar",
+   "sfx": [
+    {
+     "som": "impacto",
+     "na_palavra": "parar"
+    }
+   ]
+  },
+  {
+   "imagem": "img/cena20.jpg",
+   "texto": "Sentiu isso? Ligue *192* na hora!",
+   "movimento": "zoom_in",
+   "sticker": "192!",
+   "sticker_na_palavra": "192",
+   "sfx": [
+    {
+     "som": "ding",
+     "na_palavra": "192"
+    }
+   ],
+   "sticker_y": 0.08
+  },
+  {
+   "imagem": "img/cena21.jpg",
+   "texto": "Não vá dirigindo sozinho.",
+   "movimento": "pan_esq"
+  },
+  {
+   "imagem": "img/cena21.jpg",
+   "texto": "Porque aqui, tempo é músculo!",
+   "movimento": "zoom_in",
+   "rotulo": "Tempo é músculo",
+   "rotulo_cor": "azul",
+   "rotulo_na_palavra": "tempo"
+  },
+  {
+   "imagem": "img/cena22.jpg",
+   "texto": "No hospital, um eletrocardiograma",
+   "movimento": "zoom_in",
+   "rotulo": "Eletrocardiograma",
+   "rotulo_na_palavra": "eletrocardiograma"
+  },
+  {
+   "imagem": "img/cena22.jpg",
+   "texto": "e um exame de sangue confirmam.",
+   "movimento": "pan_dir"
+  },
+  {
+   "imagem": "img/cena23.jpg",
+   "texto": "Aí os médicos desentopem a artéria:",
+   "movimento": "zoom_in"
+  },
+  {
+   "imagem": "img/cena23.jpg",
+   "texto": "passam um balãozinho por dentro,",
+   "movimento": "pan_dir"
+  },
+  {
+   "imagem": "img/cena24.jpg",
+   "texto": "enchem, e deixam uma molinha de metal.",
+   "movimento": "zoom_in",
+   "sfx": [
+    {
+     "som": "pop",
+     "na_palavra": "enchem"
+    }
+   ]
+  },
+  {
+   "imagem": "img/cena24.jpg",
+   "texto": "Essa é a angioplastia com stent!",
+   "movimento": "parado",
+   "rotulo": "Angioplastia com stent",
+   "rotulo_na_palavra": "angioplastia"
+  },
+  {
+   "imagem": "img/cena14.jpg",
+   "texto": "Ou dão um remédio que dissolve o coágulo.",
+   "movimento": "zoom_out",
+   "rotulo": "Trombolítico",
+   "rotulo_cor": "azul",
+   "rotulo_na_palavra": "remedio"
+  },
+  {
+   "imagem": "img/cena25.jpg",
+   "texto": "E pra placa nem nascer?",
+   "movimento": "zoom_in"
+  },
+  {
+   "imagem": "img/cena25.jpg",
+   "texto": "Nada de cigarro, controle pressão, açúcar e colesterol,",
+   "movimento": "pan_dir"
+  },
+  {
+   "imagem": "img/cena25.jpg",
+   "texto": "e mexa esse corpo!",
+   "movimento": "zoom_in",
+   "sticker": "Bora!",
+   "sticker_na_palavra": "mexa",
+   "sfx": [
+    {
+     "som": "boing",
+     "na_palavra": "mexa"
+    }
+   ],
+   "sticker_y": 0.08
+  },
+  {
+   "imagem": "img/cena26.jpg",
+   "texto": "Parabéns, agora você entende o infarto!",
+   "movimento": "zoom_in",
+   "sticker": "Parabéns!",
+   "sticker_cor": "amarelo",
+   "sticker_na_palavra": "parabens",
+   "sticker_y": 0.08
+  },
+  {
+   "imagem": "img/cena27.jpg",
+   "texto": "No próximo, eu monto um cérebro...",
+   "movimento": "zoom_in"
+  },
+  {
+   "imagem": "img/cena27.jpg",
+   "texto": "e explico o AVC!",
+   "movimento": "parado",
+   "sticker": "Segue aí!",
+   "sticker_na_palavra": "avc",
+   "sfx": [
+    {
+     "som": "ding",
+     "na_palavra": "avc"
+    }
+   ]
+  }
+ ]
+}
