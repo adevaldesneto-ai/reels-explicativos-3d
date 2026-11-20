@@ -13,7 +13,8 @@ Funciona para qualquer matéria: medicina, biologia, física, história, economi
 ## O que tem aqui
 
 ```
-skill/video-explicativo-3d/      ← a skill (é isso que você instala no Claude)
+video-explicativo-3d.zip         ← a skill pronta para instalar no Claude
+skill/video-explicativo-3d/      ← a mesma skill, aberta (para ler e editar)
   SKILL.md                       ← instruções que o Claude segue
   scripts/motor.py               ← alinha a voz e renderiza o vídeo
   scripts/gemini_media.py        ← gera narração e imagens pela API do Gemini
@@ -36,7 +37,7 @@ assets/                          ← coloque aqui o seu mascote (mascote.png)
 
 ## Instalar a skill
 
-**No app do Claude (claude.ai / desktop):** baixe `video-explicativo-3d.zip` na página de [Releases](../../releases) (ou compacte a pasta `skill/video-explicativo-3d`) e envie em **Configurações → Capacidades → Skills → Enviar skill**.
+**No app do Claude (claude.ai / desktop):** baixe o arquivo [`video-explicativo-3d.zip`](video-explicativo-3d.zip) (abra o link e clique no botão de download) e envie em **Configurações → Capacidades → Skills → Enviar skill**.
 
 **No Claude Code:** copie a pasta para as suas skills:
 ```bash
